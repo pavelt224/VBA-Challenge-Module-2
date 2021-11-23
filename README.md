@@ -13,11 +13,17 @@ Running our comprehensive 2017 and 2018 data stock analysis gave us an elapsed r
 
 <img width="234" alt="Refactored Analysis 2017" src="https://user-images.githubusercontent.com/93852380/143138173-b6a59288-ff00-45bf-b137-c12b301a51fa.png">
 
+The percent decrease in runtime was calculated as follows (using 2017 data)
+Overall decrease = original time (asynchronous time) - new time (synchronous time) 
+0.75 - 0.1308594 = 0.6191406
+
 <img width="233" alt="Initial Analysis 2018" src="https://user-images.githubusercontent.com/93852380/143138190-e12f5915-cece-4ce1-af29-f0b4e0783154.png">
 
 <img width="233" alt="Refactored Analysis 2018" src="https://user-images.githubusercontent.com/93852380/143138249-e2c69d8e-935d-405b-8b71-4ceebc4e8704.png">
 
-
+The percent decrease in runtime was calculated as follows (using 2018 data)
+Overall decrease = original time (asynchronous time) - new time (synchronous time) 
+0.7578125 - 0.1298828 = 0.6279297
 
 # Initial Analysis
 <img width="341" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/93852380/143135186-d036d898-a5cd-4f42-ad50-40dc41578fde.png">
