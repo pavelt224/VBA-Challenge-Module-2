@@ -7,7 +7,7 @@ In this project and analysis, we'll use VBA solution code to alter or reorganize
 
 
 # Results: 
-Running our comprehensive 2017 and 2018 data stock analysis gave us an elapsed run time for each year, below our results:
+Running our comprehensive 2017 and 2018 data stock analysis gave us an elapsed run time for each year. For each "stock of interest," the original (asynchronous) code iterated over the entire year's worth of stock data once. It took twelve consecutive iterations over the whole year's data to accomplish this. The following are the results for each of the two years studied::
 
 <img width="209" alt="Initial Analysis 2017" src="https://user-images.githubusercontent.com/93852380/143138145-ac5eda85-41b4-4dc5-8bc6-a9fafd644c4a.png">
 
