@@ -1,12 +1,13 @@
 # VBA-Challenge-Module-2
 Assignment for Module 2
-Advantages:
+
+# Advantages:
 
 In well-structured code with nested conditionals and loops, logical mistakes are common.
 In our situation, Excel flow makes program logic more understandable by separating it from the sequence in which the underlying code is created.
 VBA code interpretation (Excel) can uncover patterns that aren't visible in the raw code.
 
-Disadvantages:
+# Disadvantages:
 
 You can adjust the logic to delete duplicate lines in a long process that has the identical line of code in numerous places.
 It's possible that a logical structure is replicated in two or more procedures (possibly via copy & paste coding). When this logic is discovered, it is better to relocate it to a new function and call it from the other functions.
